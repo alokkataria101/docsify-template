@@ -2,7 +2,7 @@
 
 * [HOME](./)
 
-* [Examples](./examples/index)
+* [About Battleship](./battleship-docs/AboutBattleship)
 
   * [Mermaid](./examples/Mermaid/index.md)
     - [Flowchart](./examples/Mermaid/flowchart.md)
